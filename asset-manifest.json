@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/currenty-convertor/static/css/main.6f222754.css",
+    "main.js": "/currenty-convertor/static/js/main.d993710a.js",
+    "index.html": "/currenty-convertor/index.html",
+    "main.6f222754.css.map": "/currenty-convertor/static/css/main.6f222754.css.map",
+    "main.d993710a.js.map": "/currenty-convertor/static/js/main.d993710a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f222754.css",
+    "static/js/main.d993710a.js"
+  ]
+}
